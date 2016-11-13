@@ -11,6 +11,7 @@ Forum: irc.freenode.net -> #xsser
 Screenshots
 ----
 
+![Screenshot](https://raw.githubusercontent.com/dhanumurti/casperx/master/doc/casperx.png)
 
 Installation
 ----
